@@ -1,0 +1,33 @@
+#wrapper {
+  width:700px;
+  margin:0 auto;
+  font-family: helvetica;
+  font-size:1.0em;
+}
+
+input {
+  padding:5px;
+  width:300px;
+  border-radius:10px;
+  font-size:0.8em;
+  border:1px solid gray;
+  margin-bottom:10px;
+}
+
+label{
+  width:200px;
+  float:left;
+  padding-top:5px;
+}
+
+#submit {
+  height:30px;
+  margin-left:200px;
+  width:90px;
+}
+
+#error{
+  color:red;
+  padding-bottom:5px;
+  font-size:.9em;
+}
